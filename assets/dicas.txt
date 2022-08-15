@@ -1,0 +1,15 @@
+amarelo #ffa800
+branco #ffffff
+cinza escuro #2f3a3d
+fonte:
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&display=swap');
+
+h1{
+    color: blue;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+div{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
